@@ -1,2 +1,2 @@
-# github-rust-automation-test
-This is just a toy repo to try new stuff
+# Github Rust Automation Test
+This repo is only to try out new features that I never used before.
