@@ -1,5 +1,5 @@
 pub fn always_true() -> bool {
-    true
+    false
 }
 
 pub fn always_false() -> bool {
